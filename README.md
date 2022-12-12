@@ -1,2 +1,3 @@
 # ElasticSearch-Client-PHP
-ElasticSearch-Client-PHP
+
+PHP example operations on ElasticSearch.
