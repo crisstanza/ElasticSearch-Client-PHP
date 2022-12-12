@@ -1,0 +1,14 @@
+html {
+	background-color: #fbc52f11;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	color: #2077ca;
+	font-size: 1.5em;
+}
+
+pre {
+	border: 1px solid #1f6655;
+	background-color: #48BFB011;
+}
